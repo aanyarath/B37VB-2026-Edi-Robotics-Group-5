@@ -7,8 +7,10 @@
 ### The RPM was found first by taking a video of the robot driving with its wheels in the air. The RPM was converted into angular velocity using the formula ω=θ/t where θ=2π*RPM to convert RPM to radians and t=60 to change it to per second. Once the angular velocity was found it was converted to tangential velocity. This was repeated for three different speeds for the two wheels for a total of six measurements. To find the translational velocity of the robot it was timed travelling a distance of 1 metre and the equation for velocity v=d/t was used to find the velocity where d=1m and t=time to pass the translational and tangential velocities were then compared 
 
 ## Data
-|Modes     |
-|----------|
-|Slow      |
-|Medium    |
-|Fast      |
+|Modes     |Velocity  |Right Wheel RPM |Left  Wheel RPM |
+|----------|----------|----------------|----------------|
+|Slow      |          |                |                |
+|Medium    |          |                |                |
+|Fast      |          |                |                |
+
+## Conclusion
